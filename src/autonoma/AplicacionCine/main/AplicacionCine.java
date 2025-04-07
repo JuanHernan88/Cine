@@ -2,17 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package autonoma.CineAplicacion.main;
+package autonoma.AplicacionCine.main;
 
 import autonoma.AplicacionCine.exceptions.PrecioInvalidoException;
-import autonoma.CineAplicacion.models.Boleta;
-import autonoma.CineAplicacion.models.Factura;
-import autonoma.CineAplicacion.models.Funcion;
-import autonoma.CineAplicacion.models.Pelicula;
-import autonoma.CineAplicacion.models.TipoFuncion;
-import autonoma.CineAplicacion.models.TipoUsuario;
-import autonoma.CineAplicacion.models.Usuario;
-import autonoma.CineAplicacion.models.Venta;
+import autonoma.AplicacionCine.models.Boleta;
+import autonoma.AplicacionCine.models.Factura;
+import autonoma.AplicacionCine.models.Funcion;
+import autonoma.AplicacionCine.models.Pelicula;
+import autonoma.AplicacionCine.models.TipoFuncion;
+import autonoma.AplicacionCine.models.TipoUsuario;
+import autonoma.AplicacionCine.models.Usuario;
+import autonoma.AplicacionCine.models.Venta;
 import java.util.*;
 
 
@@ -22,7 +22,7 @@ import java.util.*;
  * @since 20250312
  * @version 1.0.0 
  */
-public class CineAplicacion {
+public class AplicacionCine {
 
     /**
      * @param args the command line arguments
