@@ -4,9 +4,11 @@
  */
 package autonoma.AplicacionCine.interfaces;
 
-/**
- *
- * @author juane
+/*
+ * 
+ * @author Juan Esteban Hernández Martínez
+ * @since 20250312
+ * @version 1.0.0 
  */
 public interface IFacturable {
     String generarFactura();
